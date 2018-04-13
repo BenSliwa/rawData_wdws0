@@ -1,0 +1,10 @@
+Cross Validation Accuracy = 98.75 +/- 0.54
+
+Confusion = 
+  0 1
+0 680 18 
+1 15 1922
+
+Class F1 Prec Rec = 
+0 0.97630 0.9742 0.9784
+1 0.99150 0.9923 0.9907
