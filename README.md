@@ -1,7 +1,6 @@
 Raw classification results obtained from the Wireless Detection and Warning System (WDWS).
 
-### Data Format
-
+[![DOI](https://zenodo.org/badge/129371444.svg)](https://zenodo.org/badge/latestdoi/129371444)
 
 ### Indices of vehicle classes
 * 0: SUV
